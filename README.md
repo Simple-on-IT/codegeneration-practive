@@ -16,4 +16,4 @@
 
 ## Дополнительные материалы:
 Документация по fs: https://nodejs.org/api/fs.html  
-Видео - 
+Видео - https://youtube.com/shorts/IZ_PcYWmltk?feature=share
